@@ -16,5 +16,6 @@ sudo apt-get update
 ## Install the Haskell stack:
 curl -sSL https://get.haskellstack.org/ | sh
 ## Install haskell-vim-now:
+## => Doesn't seem to work @MyklClason
 ## curl -L https://git.io/haskell-vim-now > /tmp/haskell-vim-now.sh
 ## bash /tmp/haskell-vim-now.sh

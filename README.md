@@ -1,18 +1,12 @@
+This is my repo for Real World Haskell.
+While an older book, it seemed like a good place to start learning Haskell.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+This repo may include some small Haskell side projects.
+Larger Haskell projects will get their own repo.
 
+Commits will be to the master branch as I'll be mostly committing every every chapter.
+And there isn't much need to create seperate branches that'll just have one commit.
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+- Code from the course will be in the "ch##" folders.
+- Haskell install script (not mine) is in the "install" folder
+- Any code I'll create will be in the "projects" folder, if there is any.
